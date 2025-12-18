@@ -49,7 +49,7 @@ def home():
                 margin: 0;
                 padding: 0;
                 font-family: Arial, sans-serif;
-                background: linear-gradient(to right, #ffecd2, #fcb69f);
+                background: linear-gradient(to right, #1e3c72, #2a5298);
                 height: 100vh;
                 display: flex;
                 justify-content: center;
@@ -84,7 +84,7 @@ def home():
                 padding: 10px 20px;
                 border: none;
                 border-radius: 8px;
-                background-color: #ff7a18;
+                background-color: #1e90ff;
                 color: white;
                 font-size: 16px;
                 cursor: pointer;
